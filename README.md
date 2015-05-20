@@ -1,7 +1,5 @@
-Invite Friends
-==============
-Prestashop Module
------------------
+Invite Friends (Prestashop Module)
+==================================
 
 ## Description
 Invite Friends is a PrestaShop (http://www.prestashop.com ) module to send an inviting email to a friend to your shop.
